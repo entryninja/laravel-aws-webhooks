@@ -22,7 +22,7 @@
     "require": {
         "illuminate/http": "^9.35|^10.5|^11.0",
         "illuminate/support": "^9.35|^10.5|^11.0",
-        "entryninja/laravel-sns-events": "dev-master"
+        "entryninja/laravel-sns-events": "^1.0.0"
     },
     "repositories": [
         {
