@@ -24,6 +24,12 @@
         "illuminate/support": "^9.35|^10.5|^11.0",
         "entryninja/laravel-sns-events": "dev-master"
     },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://entry-ninja-projects.repo.repman.io"
+        },
+    },
     "autoload": {
         "psr-4": {
             "RenokiCo\\AwsWebhooks\\": "src/"
