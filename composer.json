@@ -29,7 +29,7 @@
             "type": "composer",
             "url": "https://entry-ninja-projects.repo.repman.io"
         },
-    },
+    ],
     "autoload": {
         "psr-4": {
             "RenokiCo\\AwsWebhooks\\": "src/"
